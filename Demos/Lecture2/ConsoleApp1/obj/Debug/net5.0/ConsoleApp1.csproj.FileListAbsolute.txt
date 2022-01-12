@@ -1,0 +1,16 @@
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+X:\DeepakKumar357444\IntroToProgramming\Demos\Lecture2\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
